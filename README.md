@@ -1,2 +1,11 @@
-# finance-app-updates
-Update channel for the Personal Finance Manager Android app (update.json + APK releases)
+# کانال به‌روزرسانی «مدیریت مالی شخصی» (اندروید)
+
+این مخزن عمومی فقط برای انتشار فایل‌های به‌روزرسانی اپ اندروید است:
+
+- `update.json` (شاخه main): مانیفست نسخه — آدرس APK، هش SHA-256 و شماره نسخه
+- Releases: فایل نصبی APK هر نسخه
+
+آدرس پیش‌فرضی که داخل برنامه ثبت شده:
+`https://raw.githubusercontent.com/developer1995m/finance-app-updates/main/update.json`
+
+هیچ داده مالی یا شخصی در این مخزن قرار نمی‌گیرد؛ فقط فایل نصبی برنامه.
