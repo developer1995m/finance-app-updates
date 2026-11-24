@@ -1,7 +1,7 @@
 {
   "versionCode": 14,
-  "versionName": "1.0.12",
+  "versionName": "1.0.12-test",
   "apkUrl": "https://github.com/developer1995m/finance-app-updates/releases/latest/download/FinanceApp-Android-1.0.12.apk",
   "sha256": "4317490f27ee88681b0aec76fc2e29cede97e394a4d7fd8fe2fb2e7bd93518aa",
-  "notes": "تست اعلان خودکار — لطفاً نصب نکنید"
+  "notes": "تست اعلان خودکار — نصب نکنید؛ فقط اعلان باید بیاید"
 }
